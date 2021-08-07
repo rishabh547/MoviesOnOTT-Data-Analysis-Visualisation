@@ -7,7 +7,7 @@
 
 * ### File Format : Jupyter Notebook(ipynb)
 
-* ### For Completed Details regarding the dataset & its Analysis refer the Pdf report attached.
+* ### For Complete Details regarding the dataset & its Analysis refer the Pdf report attached.
 
 #### Contributors:
 #### 1) Piyush Sharma - 1911104
