@@ -9,7 +9,7 @@
 
 * ### For Completed Details regarding the dataset & its Analysis refer the Pdf report attached.
 
-#### Contributors: (Roll nos)
+#### Contributors:
 #### 1) Piyush Sharma - 1911104
 #### 2) Rishabh Kothari - 1911110
 #### 3) Rushil Shah - 1911122
